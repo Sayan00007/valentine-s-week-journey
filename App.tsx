@@ -179,7 +179,7 @@ const MainContent = () => {
       <div className="h-[50vh] flex items-center justify-center bg-black text-white relative z-50">
         <div className="text-center">
           <h2 className="text-4xl font-serif mb-4">Forever & Always</h2>
-          <p className="text-slate-400">Your love story continues...</p>
+          <p className="text-slate-400">Our love story continues...</p>
         </div>
       </div>
     </div>
