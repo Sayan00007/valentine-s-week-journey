@@ -86,7 +86,7 @@ const daysConfig: DayConfig[] = [
     color: "from-rose-100 via-pink-100 to-white",
     accent: "from-rose-600 to-pink-600",
     icon: "heart-filled",
-    image: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=2670&auto=format&fit=crop", // Red Hearts
+    image: "https://6988d2b0df99ed1d08abdb6c.imgix.net/img.jpeg", // Red Hearts
   },
 ];
 
